@@ -133,8 +133,6 @@ gcc
   <img width="17" src="https://cdn.simpleicons.org/apple/818589" /> MacOS
   </summary>
 
-First, install **[macports here](https://www.macports.org/install.php)**. That allows easy install of these:
-
 ```
 cmake
 rust
