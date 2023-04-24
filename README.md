@@ -137,9 +137,8 @@ gcc
 cmake
 rust
 git
-dfu-util
-policykit
-gcc12
+dfu-util (for pinecil v1)
+gcc  (newest one)
 ```
 
   </details>
