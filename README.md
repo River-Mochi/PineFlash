@@ -138,7 +138,7 @@ cmake
 rust
 git
 dfu-util
-polkit
+policykit
 gcc12
 ```
 
